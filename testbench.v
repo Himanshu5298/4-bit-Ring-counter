@@ -4,7 +4,6 @@
 // Company: 
 // Engineer:
 //
-// Create Date:   10:43:11 08/10/2022
 // Design Name:   ringcounter
 // Module Name:   /home/ise/twobitcomparator/ringcounter_test.v
 // Project Name:  twobitcomparator
